@@ -1094,6 +1094,74 @@ body {
 .cid-qIZlWEY56l B {
   color: #ffffff;
 }
+.cid-qK6MYDcwiM {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/marquee-5-2000x810.jpg");
+}
+.cid-qK6MYDcwiM .media-content .btn-bgr {
+  z-index: 0;
+}
+.cid-qK6MYDcwiM .mbr-overlay {
+  background: linear-gradient(90deg, #951d19, #000000);
+}
+.cid-qK6MYDcwiM h3 {
+  color: #000000;
+  font-weight: 300;
+}
+.cid-qK6MYDcwiM p {
+  color: #464646;
+}
+.cid-qK6MYDcwiM h2 {
+  color: #000000;
+}
+.cid-qK6MYDcwiM .media-content {
+  padding-right: 1.5rem;
+  padding-left: 0;
+  padding-right: 0;
+  padding-left: 1.5rem;
+}
+.cid-qK6MYDcwiM .mbr-section-btn {
+  margin-left: -0.8rem;
+}
+.cid-qK6MYDcwiM .mbr-figure {
+  padding-right: 1rem;
+  padding-left: 4rem;
+}
+@media (min-width: 500px) {
+  .cid-qK6MYDcwiM .mbr-figure {
+    padding-left: 2rem;
+  }
+}
+@media (max-width: 499px) {
+  .cid-qK6MYDcwiM .mbr-figure {
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qK6MYDcwiM .mbr-figure {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.cid-qK6MYDcwiM .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+}
+@media (max-width: 767px) {
+  .cid-qK6MYDcwiM .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qK6MYDcwiM .mbr-section-title,
+.cid-qK6MYDcwiM .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-qK6MYDcwiM .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-qJcU6t0RYj {
   padding-top: 45px;
   padding-bottom: 30px;
