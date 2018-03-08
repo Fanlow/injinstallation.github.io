@@ -3402,6 +3402,19 @@ body {
   text-align: left;
   color: #ffffff;
 }
+.cid-qLF62TIAiW {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #232323;
+}
+.cid-qLF62TIAiW .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qLF62TIAiW .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qJ1suFJBa0 {
   padding-top: 30px;
   padding-bottom: 135px;
