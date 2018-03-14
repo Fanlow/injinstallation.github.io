@@ -1405,6 +1405,12 @@ body {
     text-align: center !important;
   }
 }
+#custom-html-3p {
+  /* Type valid CSS here */
+}
+#custom-html-3p .my-image {
+  width: 100%;
+}
 .cid-qJcWddRs11 {
   padding-top: 30px;
   padding-bottom: 0px;
