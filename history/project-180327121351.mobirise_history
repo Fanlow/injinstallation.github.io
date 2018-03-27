@@ -38,6 +38,8 @@
     "uniqCompNum": 134,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/mcdra/Documents/Github/fanlow.github.io/injinstallation.github.io",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -701,7 +703,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"wpac-comment\"></div>\n{JS_CODE_0}\n\n",
+          "_customHTML": "<div id=\"wpac-review\"></div>\n{JS_CODE_0}\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -711,7 +713,7 @@
           "_anchor": "custom-html-3p",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script type=\"text/javascript\">\nwpac_init = window.wpac_init || [];\nwpac_init.push({widget: 'Comment', id: 10541});\n(function() {\n    if ('WIDGETPACK_LOADED' in window) return;\n    WIDGETPACK_LOADED = true;\n    var mc = document.createElement('script');\n    mc.type = 'text/javascript';\n    mc.async = true;\n    mc.src = 'https://embed.widgetpack.com/widget.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);\n})();\n</script>"
+            "<script type=\"text/javascript\">\nwpac_init = window.wpac_init || [];\nwpac_init.push({widget: 'Review', id: 10245});\n(function() {\n    if ('WIDGETPACK_LOADED' in window) return;\n    WIDGETPACK_LOADED = true;\n    var mc = document.createElement('script');\n    mc.type = 'text/javascript';\n    mc.async = true;\n    mc.src = 'https://embed.widgetpack.com/widget.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);\n})();\n</script>"
           ]
         },
         {
