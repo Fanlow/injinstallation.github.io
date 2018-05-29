@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Security Systems In Grand Prairie, TX",
+    "name": "Security System Specialist In Grand Prairie, TX",
     "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
@@ -38,11 +38,11 @@
     "uniqCompNum": 145,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/alarm-system-icon-4-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/alarm-system-icon-4-128x128-1.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700",
@@ -60,7 +60,8 @@
         "css": "'Open Sans', sans-serif"
       }
     ],
-    "gdpr": ""
+    "gdpr": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
