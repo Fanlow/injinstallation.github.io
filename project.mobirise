@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "INJ INSTALLATIONS",
-    "currentPage": "page1.html",
+    "name": "Security Systems In Grand Prairie, TX",
+    "currentPage": "index.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -35,21 +35,39 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 134,
-    "versionPublish": "4.6.6",
+    "uniqCompNum": 145,
+    "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/alarm-system-icon-4-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "siteFonts": [
+      {
+        "url": "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700",
+        "name": "Poppins",
+        "css": "'Poppins', sans-serif"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i",
+        "name": "Roboto",
+        "css": "'Roboto', sans-serif"
+      },
+      {
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i",
+        "name": "Open Sans",
+        "css": "'Open Sans', sans-serif"
+      }
+    ],
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Security Systems In Grand Prairie, TX",
+        "meta_descr": "Security Systems In Grand Prairie, TX",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1464,7 +1482,7 @@
     "page1.html": {
       "settings": {
         "title": "Our Services",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2307,7 +2325,7 @@
     "page2.html": {
       "settings": {
         "title": "About Us",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3274,7 +3292,7 @@
     "page3.html": {
       "settings": {
         "title": "Our Work",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4194,7 +4212,7 @@
     "page4.html": {
       "settings": {
         "title": "Consultation&nbsp;",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
